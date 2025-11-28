@@ -1,12 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Milan Gamble</title>
-  </head>
-  <body>
-    <b>Hello World</b>
-    <p>Howdy World</p>
-  </body>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="background-container"></div>
+
+    <div class="content-overlay">
+        <div class="text-content">
+            <!-- Paste your text here -->
+            <h1>Milan Gamble</h1>
+            <p>
+              Manager, Product Manager at Qualtrics<br />
+              (acquirer of) Clarabridge<br />
+              as previously seen at MicroStrategy<br />
+              and the Peace Corps<br />
+              w/ a math degree from Virginia Tech
+            </p>
+        </div>
+    </div>
+
+</body>
 </html>
